@@ -6,7 +6,7 @@ public class forLoop {
 		
 		
 		//for loop with break
-		for (int i=0; i<=25; i++){//made some changes by us team
+		for (int i=0; i<=25; i++){//made some changes by asa team developer 1
 			for (int j = 0 ; j<=5; j++){
 				if (i==2 & j==2)
 					break; //come out of internal for loop

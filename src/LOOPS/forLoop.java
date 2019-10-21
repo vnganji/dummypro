@@ -17,7 +17,7 @@ public class forLoop {
 		
 		
 		System.out.println("for loop with continue");
-		for (int i=0; i<=5; i++){
+		for (int i=0; i<=15; i++){ //change made by developer2
 			for (int j = 0 ; j<=5; j++){
 				if (i==2 & j==2)
 					continue; //come out of internal for loop
